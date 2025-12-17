@@ -15,13 +15,14 @@ MonoBehaviour:
   hexName: Prairie
   type: 2
   terrainSprites:
-  - {fileID: 21300000, guid: ef2055d4696c0174a92142e90ead730a, type: 3}
-  - {fileID: 21300000, guid: 47230fa983a56c744aa58f1edeeb73e7, type: 3}
-  - {fileID: 21300000, guid: 2b1ff02df561b6b489cf1c3b3f0d81a1, type: 3}
+  - {fileID: 21300000, guid: daa209e3d7f2e1543a1d817a758c55ed, type: 3}
+  - {fileID: 21300000, guid: f221ff9bbee9098458aa95a07b57f0f7, type: 3}
+  - {fileID: 21300000, guid: 5e1675cf06dc88e4f91f1f88f35d891e, type: 3}
+  - {fileID: 21300000, guid: c36cefa5c9f85774082bc633a742438d, type: 3}
   forestSprites:
-  - {fileID: 21300000, guid: 0c149e2ac5c6f6242abf7bb5917c4deb, type: 3}
-  - {fileID: 21300000, guid: 831b8c20a400e3f40904e371dd7e1e12, type: 3}
-  - {fileID: 21300000, guid: cdc2078d4a7a5c54e9294ecc711d1b08, type: 3}
-  - {fileID: 21300000, guid: ab273059617fd4541817e437feb5fc97, type: 3}
+  - {fileID: 21300000, guid: f38edf3a51195184ca973e0c67ad6a99, type: 3}
+  - {fileID: 21300000, guid: c919da4749bcd1244a7c62d093a13150, type: 3}
+  - {fileID: 21300000, guid: 5404a43a3c7de6a419e758e52e3d1301, type: 3}
+  - {fileID: 21300000, guid: 5d6efbbc8ff884645951987484b32d71, type: 3}
   resourceYield: 0300000000000000000000000500000004000000040000000000000000000000
   moveCost: 1
